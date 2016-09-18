@@ -59,13 +59,13 @@ owner:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        https://twitter.com/lukembrowne
   facebook:       
-  github:         xyz123abc
-  stackexchange:  
-  linkedin:       https://www.linkedin.com/in/foo
-  instagram:      
-  flickr:
-  tumblr:  
-  google_plus:    https://plus.google.com/+foo
+  github:         http://github.com/lukembrowne
+  #stackexchange:  
+  #linkedin:       https://www.linkedin.com/in/foo
+  #instagram:      
+  #flickr:
+  #tumblr:  
+  #google_plus:    https://plus.google.com/+foo
   # orcid and google scholar IDs are different than standard username.
   orcid: xyz123abc
   gscholar: xyz123abc
@@ -98,6 +98,6 @@ links:
 disqus_shortname: luke_browne
 
 # Analytics and webmaster tools stuff goes here
-#google_analytics:   xyz123abc
+google_analytics:   UA-71932742-1
 
 ## END ##
