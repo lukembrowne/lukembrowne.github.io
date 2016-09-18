@@ -6,7 +6,7 @@ show_meta: true
 # imagefeature path is relative to images/ directory.
 imagefeature: foo.png
 published: true
-description: "About lukembrowne.github.io...."
+description: "About example.com...."
 category: views
 comments: false
 mathjax: false

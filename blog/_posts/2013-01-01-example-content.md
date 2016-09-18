@@ -202,6 +202,7 @@ Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna m
 
 ### Embed video
 
+{% include youtube.html %}
 
 ### Embed picture
 

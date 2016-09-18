@@ -2,7 +2,7 @@
 ---
 
 /* TEAM */
-Primary Contact: Luke Browne
+Primary Contact: foo
 Site: {{ site.url }}/about/
 Twitter: https://twitter.com/{{ site.owner.twitter }}
 
