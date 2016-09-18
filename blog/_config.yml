@@ -53,19 +53,12 @@ author:
 owner:
   name:           Luke Browne
   avatar:         foo.png
-  #email:          
+  email:          lukembrowne@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        https://twitter.com/lukembrowne
-  #facebook:       
-  github:         http://github.com/lukembrowne
- # stackexchange:  
-  #linkedin:       
-  instagram:      
-  flickr:
-  tumblr:  
-  google_plus:    
+  twitter:        https://twitter.com/lukembrowne    
+  github:         http://github.com/lukembrowne   
   # orcid and google scholar IDs are different than standard username.
   orcid: xyz123abc
   gscholar: xyz123abc
@@ -99,12 +92,9 @@ links:
 #twitter_widget_id: xyz123abc
 
 # Add disqus username for Disqus comment board:
-disqus_shortname: @luke_browne
+disqus_shortname: luke_browne
 
 # Analytics and webmaster tools stuff goes here
 #google_analytics:   xyz123abc
 
-#### For dummy website only - remove if you wish ####
-github_repo: https://github.com/dyndna/lanyon-plus
-version: 1.1.1
 ## END ##
