@@ -11,7 +11,7 @@ title:               Luke Browne
 #tagline:             Tropical Ecology and Conservatoin
 description:         Foo's blog...
 url: https://lukembrowne.github.io/blog/
-baseurl: "/blog/"
+baseurl: "/blog"
 urlimg: https://lukembrowne.github.io/blog/images/
 markdown: kramdown
 paginate: 5
