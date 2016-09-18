@@ -11,7 +11,7 @@ title:               Luke Browne
 #tagline:             'foo's website
 description:         Luke Browne's blog...
 url: https://lukembrowne.github.io/
-baseurl: "/"
+baseurl: ""
 urlimg: https://https://lukembrowne.github.io/images/
 markdown: kramdown
 paginate: 5
